@@ -20,6 +20,6 @@
         "Version": "1.0.0",
         "Website": "https://github.com/Stark-0505/Kde-windows-system-tray"
     },
-    "X-Plasma-API-Minimum-Version": "6.8.2",
+    "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-ContainmentType": "CustomEmbedded"
 }
